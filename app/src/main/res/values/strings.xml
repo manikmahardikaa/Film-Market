@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyApk4</string>
+    <string name="title_activity_cart_item">CartItem</string>
+    <string name="required_cost">%d K</string>
+    <string name="placeholder_search">Search Film!</string>
+    <string name="share_message">Hey, I have redeem %1$d rewards in Dicoding with total %2$d Points. Do you want too?</string>
+    <string name="menu_cart">Cart</string>
+    <string name="total_order">Order Total : %d K</string>
+    <string name="back">Back</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="add_to_cart">Add To Cart : %d K</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="section">Watch Your Favorite Film!</string>
+</resources>
